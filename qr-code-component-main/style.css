@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@400;700&display=swap');
+
+body {
+    background-color: hsl(212, 45%, 89%);
+    font-family: 'Outfit', sans-serif;}
+
+.titulo {
+    font-weight: 700;
+}
+
+.subtitulo {
+    font-weight: 400;
+}
+
+img {
+    width: 250px;
+}
