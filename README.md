@@ -1,2 +1,2 @@
-# frontend-mentor
- Repositório para guardar meus projetos do Frontend Mentor
+# QR Code Component
+ Repositório criado a partir do modelo do Frontend Mentor.
